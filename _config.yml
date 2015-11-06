@@ -2,13 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Industry Kitchen
-email: nycindustrykitchen@gmail.com
-author: Walker McBain
-description: > # "Traditional culinary education is expensive, bloated and focused on
-    profit not outcomes. Industry Kitchen is an immersive bootcamp that
-    will make you job ready at an affordable price."
+url: http://bestlelectionever.com
+title: Best Election Ever
+email: bestlelectionever@gmail.com
+author:
+description: > # "Register to vote, Requestion Eleciton Day off, Party with your fellow Americans."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,7 +22,4 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/industrycooking
-  - title: facebook
-    url: http://facebook.com/industrycookingschool
-  
+    url: https://twitter.com/bestelectionevs
